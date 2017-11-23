@@ -1,12 +1,6 @@
-//
-//  quick_sort.cpp
-//  data_structures
-//
-//  Created by Shivangi Sareen on 17/03/17.
-//  Copyright © 2017 Shivangi Sareen. All rights reserved.
-//
-// QUICK SORT
-/*
+//quick sort
+//sorting 6 different types of arrays
+
 
 #include <stdio.h>
 #include <ranlib.h>
@@ -31,7 +25,7 @@ int array3[10000];   //ascending sorted array
 int array4[10000];   //descending sorted array
 int array5[10000];   //identical valued array
 
-int array6[10];
+int array6[10];     //array as input from user 
 
 
 
@@ -156,5 +150,5 @@ int main() {
     
    
 }
-*/
+
 
