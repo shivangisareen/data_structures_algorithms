@@ -1,11 +1,5 @@
-//
-//  task3(a).c
-//  assignment2
-//
-//  Created by Shivangi Sareen on 04/11/17.
-//  Copyright © 2017 Shivangi Sareen. All rights reserved.
-//
-/*
+//reading a file using CSV parser and sorting the 'score' column using quick sort
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -129,7 +123,7 @@ void print_records (struct ign *field) {
 
 int main() {
     
-    FILE *f= fopen("/Users/shivangisareen/Desktop/Year3/DSA_Lab/assignment2/assignment2/ign.csv","r");
+    FILE *f= fopen("ign.csv","r");
     
     
     int i=0;
@@ -172,4 +166,4 @@ int main() {
     fclose(f);
 }
 
-*/
+
