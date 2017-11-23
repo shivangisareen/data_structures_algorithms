@@ -1,4 +1,4 @@
-//reading a file using CSV parser and sorting the 'score' column using quick sort
+//reading a file using CSV parser and sorting the 'score' column using quick sort and printing the top 10
 
 
 #include <stdio.h>
