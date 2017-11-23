@@ -1,10 +1,4 @@
-//
-//  task2.c
-//  assignment2
-//
-//  Created by Shivangi Sareen on 04/11/17.
-//  Copyright © 2017 Shivangi Sareen. All rights reserved.
-//
+
 //MERGE SORT
 
 
