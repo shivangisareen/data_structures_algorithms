@@ -1,12 +1,6 @@
-//
-//  task3(b).c
-//  assignment2
-//
-//  Created by Shivangi Sareen on 13/11/17.
-//  Copyright © 2017 Shivangi Sareen. All rights reserved.
-//
+//printing the top five games of eacvh year from 1996 to 2016
 
-/*
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -179,4 +173,4 @@ int main() {
     fclose(f);
 }
 
-*/
+\
