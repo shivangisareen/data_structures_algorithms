@@ -1,4 +1,4 @@
-//printing the top five games of eacvh year from 1996 to 2016
+//printing the top five games of each year from 1996 to 2016
 
 
 #include <stdio.h>
@@ -173,4 +173,4 @@ int main() {
     fclose(f);
 }
 
-\
+
