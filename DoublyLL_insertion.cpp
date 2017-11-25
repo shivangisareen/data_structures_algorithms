@@ -1,11 +1,4 @@
-//
-//  DoublyLL_insertion.cpp
-//  Linked Lists
-//
-//  Created by Shivangi on 25/01/17.
-//  Copyright © 2017 Shivangi. All rights reserved.
-//
-/*
+
  
 #include <stdio.h>
 #include <iostream>
@@ -103,5 +96,4 @@ int main() {
     
 
 }
-*/
 
