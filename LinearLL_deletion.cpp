@@ -1,11 +1,4 @@
-//
-//  LL_deletion.cpp
-//  Linked Lists
-//
-//  Created by Shivangi on 24/01/17.
-//  Copyright © 2017 Shivangi. All rights reserved.
-//
-/*
+
 
 #include <stdio.h>
 #include <iostream>
@@ -84,5 +77,4 @@ int main() {
 
 
 }
-*/
 
