@@ -1,12 +1,4 @@
-//
-//  infix_postfix.cpp
-//  data_structures
-//
-//  Created by Shivangi Sareen on 13/03/17.
-//  Copyright © 2017 Shivangi Sareen. All rights reserved.
-//
-/*
- 
+
  
 #include <stdio.h>
 #include <iostream>
@@ -38,6 +30,5 @@ int main() {
     
 }
 
-*/
 
 
