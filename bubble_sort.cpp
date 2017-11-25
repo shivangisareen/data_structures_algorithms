@@ -1,15 +1,4 @@
-//
-//  bubble_sort.cpp
-//  introduction
-//
-//  Created by Shivangi on 14/01/17.
-//  Copyright © 2017 Shivangi. All rights reserved.
-//
-// we will use TWO FOR LOOPS
-// outer loop- traversing the array
-// inner loop- adjacent elements of the array are comapared and swapped, if necessary
-
-/* 
+ 
  
 #include <iostream>
 using namespace std;
@@ -34,4 +23,4 @@ int main() {
         
     }
 
-*/
+
