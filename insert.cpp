@@ -1,12 +1,4 @@
-//
-//  insert.cpp
-//  introduction
-//
-//  Created by Shivangi on 14/01/17.
-//  Copyright © 2017 Shivangi. All rights reserved.
-//
 
-/*
  
 #include <iostream>
 using namespace std;
@@ -90,4 +82,4 @@ int main() {
  }
 
 
-*/
+
