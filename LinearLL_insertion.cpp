@@ -1,11 +1,4 @@
-//
-//  main.cpp
-//  Linked Lists
-//
-//  Created by Shivangi on 24/01/17.
-//  Copyright © 2017 Shivangi. All rights reserved.
-//
-/*
+
  
  
 #include <iostream>
@@ -104,5 +97,5 @@ int main() {
     printList();
     
 }
-*/
+
 
