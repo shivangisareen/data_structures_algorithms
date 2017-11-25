@@ -1,12 +1,4 @@
-//
-//  insertion_sorting.cpp
-//  introduction
-//
-//  Created by Shivangi on 14/01/17.
-//  Copyright © 2017 Shivangi. All rights reserved.
-//DOUBT
 
-/*
 
 #include <iostream>
 using namespace std;
@@ -32,6 +24,6 @@ int mian() {
     }
 }
  
- */
+ 
 
 
