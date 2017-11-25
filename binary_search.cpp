@@ -1,11 +1,4 @@
-//
-//  linear_search.cpp
-//  data_structures
-//
-//  Created by Shivangi Sareen on 12/03/17.
-//  Copyright © 2017 Shivangi Sareen. All rights reserved.
-//
-/*
+
 #include <stdio.h>
 #include<iostream>
 using namespace std;
@@ -61,6 +54,6 @@ int main() {
     }
 }
 
-*/
+
 
 
